@@ -15,3 +15,7 @@ A health facility has been experiencing a lot of death due to cancer with a few 
 
 - Since the stakeholders are interested in predicting malignant cases correctly, the recall for the malignant class would observed closely i.e we want our model to be able to identify all malignant cases in the test data
 
+`UI of deployed model`
+
+![Image of Deployed Model](cancer-classification.png)
+
