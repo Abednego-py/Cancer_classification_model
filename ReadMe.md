@@ -21,7 +21,8 @@ The data contains 9 columns including clump, 'ucellsize, 'ucellshape, 'mgadhesio
 - Since the stakeholders are interested in predicting malignant cases correctly, the recall for the malignant class would observed closely i.e we want our model to be able to identify all malignant cases in the test data
 
 `Results`
-![Image of Deployed Model](Model result.png)
+
+![Model Results](Model result.png)
 
 - Naives Bayes and KNN have the best metric for recall. We'd pick the KNN model because of interpretability and the size of the training data
 
